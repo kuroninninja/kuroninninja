@@ -21,6 +21,6 @@ I'm currently working on [Gaia](https://www.github.com/kuroninninja/gaia), a tex
 
 ## Contact ✉️
 
-Use my email:
+You can contact me via email:
 
 ![Static Badge](https://img.shields.io/badge/henry.h.george2012%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=black)
