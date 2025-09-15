@@ -2,7 +2,7 @@
 
 A hobbyist developer who loves to code ⌨️
 
-Currently working on [Gaia](https://www.github.com/kuroninninja/gaia), a text-based adventure game 🎮
+I'm currently working on [Gaia](https://www.github.com/kuroninninja/gaia), a text-based adventure game 🎮
 
 ## Technologies
 
