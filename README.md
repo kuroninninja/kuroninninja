@@ -2,8 +2,6 @@
 
 A hobbyist developer who loves to code ⌨️
 
-I'm currently working on [Gaia](https://www.github.com/kuroninninja/gaia), a text-based adventure game 🎮
-
 ## Technologies
 
 ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
