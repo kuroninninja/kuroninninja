@@ -1,6 +1,6 @@
 # Hi, I'm Henry!
 
-A hobbyist developer who loves to code ⌨️
+A hobbyist developer who loves to code
 
 ## Technologies
 
@@ -11,7 +11,7 @@ A hobbyist developer who loves to code ⌨️
 ![Static Badge](https://img.shields.io/badge/neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=%2357A143&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/bash-%234EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=%23ffffff&labelColor=black)
 
-## Stats 📊
+## Stats
 
 ![kuroninninja's Stats](https://github-readme-stats.vercel.app/api?username=kuroninninja&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 ![kuroninninja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroninninja&theme=transparent&show_icons=true&hide_border=true&layout=compact)
