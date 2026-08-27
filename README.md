@@ -15,9 +15,3 @@ A hobbyist developer who loves to code ⌨️
 
 ![kuroninninja's Stats](https://github-readme-stats.vercel.app/api?username=kuroninninja&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 ![kuroninninja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroninninja&theme=transparent&show_icons=true&hide_border=true&layout=compact)
-
-## Contact ✉️
-
-You can contact me via email:
-
-![Static Badge](https://img.shields.io/badge/henry.h.george2012%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=black)
